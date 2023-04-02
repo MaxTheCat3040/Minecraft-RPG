@@ -10,7 +10,9 @@ TrueTypeFontImporter:
   includeFontData: 1
   fontNames:
   - Minecraft Evenings
-  fallbackFontReferences: []
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c3d2d6b65c233874ea679102f4bc1095, type: 3}
+  - {fileID: 12800000, guid: af1be1233eeb3a44b940f15513e3cbf7, type: 3}
   customCharacters: 
   fontRenderingMode: 0
   ascentCalculationMode: 1
